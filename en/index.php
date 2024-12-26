@@ -3,36 +3,30 @@
 
 
 <div class="container pt-5 centered">
-
     <img src="../images/agorakit-fireplace.jpg" class="w-100" style="max-width: 900px" />
-
 </div>
-
-
 
 
 <div class="container">
     <h1 class="text-center">
-        Your collective deserve <br /> a friendly online home.
+        Your collective deserves <br /> a friendly online home.
     </h1>
 </div>
+
 
 <div class="container d-flex justify-content-center mt-4">
     <div class=" col-10">
         <h2>
-            Agorakit is web-based, open source groupware for collectives.
+            Agorakit is open source Web-based groupware for collectives.
             <br />
             <br />
-            By creating collaborative groups, people can discuss topics, organize events, store files and keep everyone updated as needed.
+            Create collaborative groups where you can organize, discuss, schedule, store & update everyone about what's important.
             <br />
             <br />
-            Agorakit is a forum, calendar, file manager, mapping tool and email notifier.
+            Agorakit contains a forum, calendar, file manager and email notifier to help you manage membership, communication, and decision-making as simply as possible.
         </h2>
     </div>
 </div>
-
-
-
 
 
 <div class="container my-5">
