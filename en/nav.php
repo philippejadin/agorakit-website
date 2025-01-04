@@ -10,13 +10,8 @@
             <div class="navbar-nav mr-auto">
 
                 <a class="nav-item nav-link" href="./support.php">
-                    <i class="fas fa-heart"></i> Support the project
+                    <i class="fas fa-heart"></i> Donate
                 </a>
-
-                <a class="nav-item nav-link" href="./pricing.php">
-                    </i> Pricing
-                </a>
-
                 <a class="nav-item nav-link" href="https://docs.agorakit.org" target="_blank">
                     Documentation
                 </a>
